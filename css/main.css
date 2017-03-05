@@ -98,7 +98,11 @@ img {
 	height: auto;
 }
 
-.css_effects{
+.border {
+	border: 2px solid #2d3c49;
+}
+
+.css_effects {
 	display: block;
 	width: 95%;
 	height: 0.5em;
