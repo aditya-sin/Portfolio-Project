@@ -2,3 +2,7 @@
 	width: calc(100% - 30px);
 	margin-right: 10px;
 }
+
+.icon {
+	margin-left: 20px;
+}
